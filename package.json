@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s01kgac",
+  "name": "scrim-s01kgac",
   "description": "https://scrimba.com/frontend-path-c0j/~0cv",
   "scripts": {
     "start": "vite",
@@ -10,5 +10,19 @@
   "dependencies": {
     "vite": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldhats/Instagram-Clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oldhats/Instagram-Clone/issues"
+  },
+  "homepage": "https://github.com/oldhats/Instagram-Clone#readme"
 }
